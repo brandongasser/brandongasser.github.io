@@ -1,4 +1,23 @@
+body {
+    padding: 10px;
+    background-color: #101010 !important;
+}
+
+p {
+    font-size: 20px;
+    color: #d3d3d3;
+}
+
 h1 {
-    font-family: cursive;
-    color: red;
+    color: black;
+}
+
+h4 {
+    color: #d0d0d0;
+}
+
+.sidebar {
+    background-color: #3d5d79;
+    padding: 10px;
+    text-align: center;
 }
