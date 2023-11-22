@@ -12,8 +12,9 @@ h1 {
     color: black;
 }
 
-h4 {
+h2 {
     color: #d0d0d0;
+    font-size: 3vmin !important;
 }
 
 .sidebar {
