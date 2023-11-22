@@ -22,3 +22,12 @@ h2 {
     padding: 10px;
     text-align: center;
 }
+
+.logos {
+    background-color: #3d795d;
+    padding: 10px;
+}
+
+.logo {
+    width: 200px !important;
+}
