@@ -36,6 +36,10 @@ h2 {
     margin-right: 25px;
 }
 
+.acm-logo {
+    width: 140px !important;
+}
+
 .fa {
     margin: 10px;
     font-size: 30px !important;
